@@ -367,7 +367,7 @@ Try an id that does not match an existing department:
 > 13
 Enter the department's id: 99
 Department 99 not found
-```
+```name:
 
 ---
 
